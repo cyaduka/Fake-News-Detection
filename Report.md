@@ -1,8 +1,7 @@
 # Fake News Detection using NLP
 ## Research Paper Project Report
 
-**Author:** Chirag  
-**Location:** Misraspatti, Uttarakhand, India  
+**Author:** Chirag Yaduka
 **Date:** April 2026
 
 ---
