@@ -56,5 +56,5 @@ jupyter notebook Fake_News_Detection.ipynb
 - `README.md` - This file
 
 ## Author
-- **Name:** Chirag
-- **Location:** Misraspatti, Uttarakhand, India
+- **Name:** Chirag Yaduka
+
