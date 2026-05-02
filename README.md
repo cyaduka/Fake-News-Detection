@@ -1,4 +1,4 @@
-# Fake News Detection using Python & Machine Learning
+# Fake News Detection using NLP
 
 This is a research paper project to detect fake news using a machine learning model trained on Kaggle's Fake and Real News dataset.
 
